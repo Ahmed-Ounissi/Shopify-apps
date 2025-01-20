@@ -1,0 +1,5 @@
+Content-Length: 0
+X-Crawlera-Error: bad_proxy_auth
+X-Crawlera-Version: 1.62.0
+Proxy-Authenticate: Basic realm="Crawlera"
+Date: Wed, 15 Jan 2025 03:31:10 GMT

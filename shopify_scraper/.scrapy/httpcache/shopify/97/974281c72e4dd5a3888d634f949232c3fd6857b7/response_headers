@@ -1,0 +1,31 @@
+Date: Mon, 13 Jan 2025 11:33:52 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Cross-Origin-Opener-Policy: same-origin
+Link: <https://apps.shopify.com/categories/store-design-internationalization-currency-and-translation/all?page=3>; rel="canonical",<https://apps.shopify.com/cdn/shopifycloud/shopify_app_store/assets/merchant-e2d47fcb011410afd978aec2c3ba07c9e895f857e7d87a68d1f48f0f9c4cf986.css>; rel=preload; as=style; crossorigin=anonymous; integrity=sha256-vOaOSupCc+FyJV6THnF5oVCyemHNuyanWRX5uGMEHho=; nopush,<https://apps.shopify.com/cdn/shopifycloud/shopify_app_store/assets/tailwind-99b545d70070a2744d1ef4bf1402c4ee50dfd01bed512ba430ec6c85a36bcbf4.css>; rel=preload; as=style; nopush,<https://apps.shopify.com/cdn/shopifycloud/shopify_app_store/assets/inter-font-7a30f1aa5d0f997bc5f993c436cf84ad0f46c641565f03872359951c99d9fab6.css>; rel=preload; as=style; nopush,<https://apps.shopify.com/cdn/shopifycloud/shopify_app_store/bundles/assets/application_next-DJRunTeT.js>; rel=modulepreload; as=script; crossorigin=anonymous; nopush
+Etag: W/"a31dba1d8c1e7ffe5c2b97ea4c3a5da7"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _y=b751e03b-f0fd-4ee0-978d-c13b8d82c170; domain=shopify.com; path=/; expires=Tue, 13 Jan 2026 11:33:52 GMT; SameSite=Lax; secure
+Set-Cookie: _s=925dd745-6d2e-4eb4-8e92-5ff1330f8013; domain=shopify.com; path=/; expires=Mon, 13 Jan 2025 12:03:52 GMT; SameSite=Lax; secure
+Set-Cookie: _shopify-app_store_session5=a35cd41dfca7e1f9470bad1f06344e00; path=/; expires=Wed, 12 Feb 2025 22:02:58 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 4785c6ca-9a1d-4dc6-bff0-563be60b1fcc-1736768032
+X-Runtime: 0.152989
+Server-Timing: processing;dur=153, socket_queue;dur=1.227, edge;dur=1.036
+Server-Timing: cfRequestDuration;dur=286.999941
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=all&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=merchant%2Fcategories&source%5Buuid%5D=4785c6ca-9a1d-4dc6-bff0-563be60b1fcc-1736768032
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=all&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=merchant%2Fcategories&source%5Buuid%5D=4785c6ca-9a1d-4dc6-bff0-563be60b1fcc-1736768032; report-to shopify-csp
+Reporting-Endpoints: shopify-csp="/csp-report?source%5Baction%5D=all&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=merchant%2Fcategories&source%5Buuid%5D=4785c6ca-9a1d-4dc6-bff0-563be60b1fcc-1736768032"
+X-App-Name: appstore
+X-Dc: gcp-us-east1,gcp-us-east1,gke
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=qQtaecmSi%2BELTXiJsVKgX%2FQ2cRIjbHph9RJlvISMkyUDfzdBJS0vPO4xlAwH072yJfxPKu9ZyVUBd%2BPfLKw4%2BAotIZnfADn%2FuwDeIftUDINXALXnoghTIG%2F%2F8kl%2B7HhUzFA%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 901512ea6bd04882-MXP
+Alt-Svc: h3=":443"; ma=86400

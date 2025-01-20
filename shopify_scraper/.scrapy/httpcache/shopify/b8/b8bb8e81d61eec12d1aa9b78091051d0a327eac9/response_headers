@@ -1,0 +1,24 @@
+Content-Length: 0
+Date: Mon, 13 Jan 2025 11:37:38 GMT
+Content-Type: text/html; charset=utf-8
+Location: https://apps.shopify.com/categories/store-design
+Cache-Control: no-cache
+X-Request-Id: b396dd5b-8cdf-41ca-96f0-50b7be566f20-1736768258
+X-Runtime: 0.001985
+Server-Timing: processing;dur=3, socket_queue;dur=8.192, edge;dur=1.055
+Server-Timing: cfRequestDuration;dur=136.999846
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'
+X-App-Name: appstore
+X-Dc: gcp-us-east1,gcp-us-east1,gke
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=fAi%2B30ru8CnjMKEyzz%2BNW6RzWM%2BIbKHsGSsZZP%2BiVpfPTAtqswek0gDM7EqDjlz6hvNTIOY%2FwW5VkZGYueUS9ah5Ab%2F6GofDmtnGq05H4FTOTjY3dTZ6uuBFReddvuSxpA4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 90151870ddcc59a1-MXP
+Alt-Svc: h3=":443"; ma=86400

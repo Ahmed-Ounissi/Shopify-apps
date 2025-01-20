@@ -1,0 +1,3 @@
+include requirements.txt
+include scrapy.cfg
+recursive-include shopify_scraper *

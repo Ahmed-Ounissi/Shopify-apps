@@ -1,0 +1,5 @@
+scrapy>=2.11.0
+scrapeops-scrapy>=0.5.2
+scrapy-crawlera>=1.7.0
+supabase>=2.11.0
+python-dotenv>=1.0.0

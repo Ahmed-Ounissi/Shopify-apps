@@ -1,0 +1,30 @@
+Content-Length: 0
+Date: Mon, 13 Jan 2025 11:33:22 GMT
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Opener-Policy: same-origin
+Link: <https://apps.shopify.com/categories/orders-and-shipping-shipping-solutions-shipping>; rel="canonical"
+Location: https://apps.shopify.com/categories/orders-and-shipping-shipping-solutions-shipping/all
+Cache-Control: no-cache
+Set-Cookie: _y=b751e03b-f0fd-4ee0-978d-c13b8d82c170; domain=shopify.com; path=/; expires=Tue, 13 Jan 2026 11:33:22 GMT; SameSite=Lax; secure
+Set-Cookie: _s=925dd745-6d2e-4eb4-8e92-5ff1330f8013; domain=shopify.com; path=/; expires=Mon, 13 Jan 2025 12:03:22 GMT; SameSite=Lax; secure
+Set-Cookie: _shopify-app_store_session5=a35cd41dfca7e1f9470bad1f06344e00; path=/; expires=Wed, 12 Feb 2025 22:02:28 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 934f7258-a533-4e7b-8434-f69622b9342d-1736768002
+X-Runtime: 0.009115
+Server-Timing: processing;dur=10, socket_queue;dur=1.096, edge;dur=1.052
+Server-Timing: cfRequestDuration;dur=128.000021
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=merchant%2Fcategories&source%5Buuid%5D=934f7258-a533-4e7b-8434-f69622b9342d-1736768002
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=merchant%2Fcategories&source%5Buuid%5D=934f7258-a533-4e7b-8434-f69622b9342d-1736768002; report-to shopify-csp
+Reporting-Endpoints: shopify-csp="/csp-report?source%5Baction%5D=show&source%5Bapp%5D=ShopifyAppStore&source%5Bcontroller%5D=merchant%2Fcategories&source%5Buuid%5D=934f7258-a533-4e7b-8434-f69622b9342d-1736768002"
+X-App-Name: appstore
+X-Dc: gcp-us-east1,gcp-us-east1,gke
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=HFu5C1Twl%2FGBU3Rp8abj8FxE6OLihT6edwgLAgLojbsHdlBUcJE1cMt6rdLDRlOcFYtVlvyfoWgy3UqfzM7mk33u0S1eAV0Iku0OUQsLeVyJM%2BkLlTRoYA2UoML6qGbLjxI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 9015122e89fa4882-MXP
+Alt-Svc: h3=":443"; ma=86400
